@@ -20,7 +20,8 @@ In case you need me to be formally qualified:
 
 - **Stanford University** — BSc and MSc in Electrical Engineering, concentration in digital signal processing. (Please don't ask me to explain convolution.)
 - **Actual trained teacher** — Postgraduate Diploma in Education from NIE; in a previous life I taught Computing, Mathematics, and Physics at Raffles Institution, then did higher education policy at MOE.
-- **Assorted certifications** — Apple Certified Trainer for Swift; Apple Professional Learning Specialist; Unity Certified Associate in Game Development; Advanced Certificate in Learning & Performance; and, my personal favourite, Microsoft and Minecraft Global Training Partner.
+- **Assorted certifications** — Apple Certified Trainer for Swift and App Development with Swift Certified User; Apple Professional Learning Specialist; Unity Certified Associate in Game Development; Advanced Certificate in Learning & Performance; Microsoft AI-900; and, my personal favourite, Microsoft and Minecraft Global Training Partner.
+- **Volunteering** — teacher-mentor and section leader across four runs of [Stanford Code in Place](https://codeinplace.stanford.edu), Stanford's free online intro CS course.
 
 ### Elsewhere
 
