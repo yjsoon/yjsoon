@@ -6,6 +6,8 @@ Most of my work happens at [Tinkertanker](https://tinkertanker.com), the company
 
 I co-founded and help run the [Agentic Builders Collective](https://agenticbuilders.sg), a Singapore community for people building with AI agents. You can add yourself to our website by pull request! You don't even need to understand the code, just point your favourite coding agent at [the repo](https://github.com/agentic-builders-collective/agentic-builders-collective.github.io) and demand to be added.
 
+---
+
 ### Things I've made
 
 - [**JustNow**](https://justnow.tk.sg) — a lightweight, fully offline screen recall app for macOS, made because I have fat fingers and kept losing text I'd typed ([source](https://github.com/yjsoon/justnow)). Zero telemetry, so if you use it please tell me ok.
@@ -14,12 +16,16 @@ I co-founded and help run the [Agentic Builders Collective](https://agenticbuild
 - [**Tinkerer's Guide to the micro:bit Galaxy**](https://tgttmg.tk.sg) — a book we wrote during the pandemic.
 - [**DF-Style Linked List**](https://github.com/yjsoon/df-style-linked-list_wordpress-plugin) — a WordPress plugin I haven't touched in over a decade, which remains my most-starred repository. Yay?
 
+---
+
 ### Qualifications and activities I've done
 
-- **Stanford University**: BSc and MSc in Electrical Engineering, concentration in digital signal processing (supposedly, I probably can't convolve or transform something Fourierly on the spot if asked).
+- **Stanford University**: BSc and MSc in Electrical Engineering, concentration in digital signal processing (supposedly. If someone came up to me to convolve or transform something Fourierly on the spot, I would be very nervous.).
 - **National Institute of Education**: Postgraduate Diploma in Education; in a previous life I taught Computing, Mathematics, and Physics at Raffles Institution.
 - **Assorted certifications**: Apple Certified Trainer for Swift; Apple & Certiport App Development with Swift Certified User; Apple Professional Learning Specialist; Unity Certified Associate in Game Development; Advanced Certificate in Learning & Performance; Microsoft AI-900; Microsoft and Minecraft(??) Global Training Partner.
 - **Volunteering**: Teacher-mentor and section leader across four runs of [Stanford Code in Place](https://codeinplace.stanford.edu), Stanford's free online intro CS course modelled after [CS106](https://web.stanford.edu/class/cs106a/), where I first started teaching in my sophomore year.
+
+---
 
 ### Elsewhere on the web
 
