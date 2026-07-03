@@ -1,5 +1,3 @@
-<img src="logo.png" align="right" width="110" alt="Me, approximately.">
-
 ## YJ, Soon
 
 Hello. I teach, design, code, and build things in Singapore. Depending on the time of day, I'm a teacher, programmer, designer, and/or business owner. I also spend money on AI coding subscriptions at a rate I'd rather not discuss.
