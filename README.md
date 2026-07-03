@@ -6,7 +6,7 @@ Most of my work happens at [Tinkertanker](https://tinkertanker.com), the company
 
 I co-founded and help run the [Agentic Builders Collective](https://agenticbuilders.sg), a Singapore community for people building with AI agents. You can add yourself to our website by pull request! You don't even need to understand the code, just point your favourite coding agent at [the repo](https://github.com/agentic-builders-collective/agentic-builders-collective.github.io) and demand to be added.
 
-### Some things I've made
+### Things I've made
 
 - [**JustNow**](https://justnow.tk.sg) — a lightweight, fully offline screen recall app for macOS, made because I have fat fingers and kept losing text I'd typed ([source](https://github.com/yjsoon/justnow)). Zero telemetry, so if you use it please tell me ok.
 - [**YNAB Rewards**](https://rewards.soon.sg) — a rewards tracker for people who obsessively categorise their YNAB transactions to maximise their credit card rewards. (Hello!) ([source](https://github.com/yjsoon/ynab-rewards-tracker))
@@ -14,16 +14,14 @@ I co-founded and help run the [Agentic Builders Collective](https://agenticbuild
 - [**Tinkerer's Guide to the micro:bit Galaxy**](https://tgttmg.tk.sg) — a book we wrote during the pandemic.
 - [**DF-Style Linked List**](https://github.com/yjsoon/df-style-linked-list_wordpress-plugin) — a WordPress plugin I haven't touched in over a decade, which remains my most-starred repository. Yay?
 
-### Paperwork
+### Qualifications and activities I've done
 
-In case you need me to be formally qualified:
+- **Stanford University**: BSc and MSc in Electrical Engineering, concentration in digital signal processing (supposedly, I probably can't convolve or transform something Fourierly on the spot if asked).
+- **National Institute of Education**: Postgraduate Diploma in Education; in a previous life I taught Computing, Mathematics, and Physics at Raffles Institution.
+- **Assorted certifications**: Apple Certified Trainer for Swift; Apple & Certiport App Development with Swift Certified User; Apple Professional Learning Specialist; Unity Certified Associate in Game Development; Advanced Certificate in Learning & Performance; Microsoft AI-900; Microsoft and Minecraft(??) Global Training Partner.
+- **Volunteering**: Teacher-mentor and section leader across four runs of [Stanford Code in Place](https://codeinplace.stanford.edu), Stanford's free online intro CS course modelled after [CS106](https://web.stanford.edu/class/cs106a/), where I first started teaching in my sophomore year.
 
-- **Stanford University** — BSc and MSc in Electrical Engineering, concentration in digital signal processing. (Please don't ask me to explain convolution.)
-- **Actual trained teacher** — Postgraduate Diploma in Education from NIE; in a previous life I taught Computing, Mathematics, and Physics at Raffles Institution, then did higher education policy at MOE.
-- **Assorted certifications** — Apple Certified Trainer for Swift and App Development with Swift Certified User; Apple Professional Learning Specialist; Unity Certified Associate in Game Development; Advanced Certificate in Learning & Performance; Microsoft AI-900; and, my personal favourite, Microsoft and Minecraft Global Training Partner.
-- **Volunteering** — teacher-mentor and section leader across four runs of [Stanford Code in Place](https://codeinplace.stanford.edu), Stanford's free online intro CS course.
-
-### Elsewhere
+### Elsewhere on the web
 
 I write at [yjsoon.com](https://yjsoon.com) about tech, programming, teaching, design, running a company, and other amusing things. You can also find me on [LinkedIn](https://www.linkedin.com/in/yjsoon), [X](https://x.com/yjsoon), and [Threads](https://threads.net/@yjsoon).
 
