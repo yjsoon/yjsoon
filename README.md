@@ -1,8 +1,8 @@
 ## YJ, Soon
 
-Hello. I teach, design, code, and build things in Singapore. Depending on the time of day, I'm a teacher, programmer, designer, and/or business owner. I also spend money on AI coding subscriptions at a rate I'd rather not discuss.
+Hello. I teach, design, code, and build things in Singapore. I also spend money on AI coding subscriptions at a rate I'd rather not discuss.
 
-Most of my work happens at [Tinkertanker](https://tinkertanker.com), the company I co-founded, where we teach coding and making to learners of all ages as [Tinkercademy](https://tinkercademy.com). I run classes and design curriculum on agenting engineering, intro programming, app development, web development, game development, and more, for audiences from students to adults. 
+Most of my work happens at [Tinkertanker](https://tinkertanker.com), the company I co-founded, where we teach coding and making to learners of all ages as [Tinkercademy](https://tinkercademy.com). I run classes and design curriculum on agentic engineering, intro programming, app development, web development, game development, and more, for audiences from students to adults. 
 
 I co-founded and help run the [Agentic Builders Collective](https://agenticbuilders.sg), a Singapore community for people building with AI agents. You can add yourself to our website by pull request! You don't even need to understand the code, just point your favourite coding agent at [the repo](https://github.com/agentic-builders-collective/agentic-builders-collective.github.io) and demand to be added.
 
