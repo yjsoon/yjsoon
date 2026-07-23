@@ -12,22 +12,22 @@ I co-founded and help run the [Agentic Builders Collective](https://agenticbuild
 
 #### Personal projects
 
-- [**JustNow**](https://justnow.tk.sg) — a native macOS menu bar app that keeps a short, fully local rewind history of your screen, with OCR, search, screenshots, and zero telemetry ([source](https://github.com/yjsoon/justnow)).
-- [**YNAB Rewards**](https://rewards.soon.sg) — a rewards tracker for people who obsessively categorise their YNAB transactions to maximise their credit card rewards. (Hello!) ([source](https://github.com/yjsoon/ynab-rewards-tracker))
+- [**JustNow**](https://justnow.tk.sg): a native macOS menu bar app that keeps a short, fully local rewind history of your screen, with OCR, search, screenshots, and zero telemetry ([source](https://github.com/yjsoon/justnow)).
+- [**YNAB Rewards**](https://rewards.soon.sg): a rewards tracker for people who obsessively categorise their YNAB transactions to maximise their credit card rewards. (Hello!) ([source](https://github.com/yjsoon/ynab-rewards-tracker))
 
 #### Work and teaching projects
 
-- [**Vibbit**](https://vibbit.tk.sg) — an AI coding assistant for micro:bit MakeCode, packaged as a Chrome extension and bookmarklet, with a managed classroom backend as well as bring-your-own-key mode ([source](https://github.com/tinkertanker/vibbit)).
-- [**Classroom Widgets**](https://github.com/tinkertanker/classroom-widgets) — a real-time teacher/student activity board with polls, questions, timers, QR codes, randomisers, handouts, feedback, and voice commands.
-- [**Discord Drive Uploader**](https://github.com/tinkertanker/discord-drive-uploader) — a self-hosted Discord bot and setup UI that uploads photos and videos from mapped Discord channels into Google Drive folders.
-- [**Points Accelerator**](https://github.com/tinkertanker/points-accelerator) — a Discord economy and assignment bot for class communities, with group points, personal wallets, a marketplace, betting, lucky draws, and an OAuth dashboard.
-- [**TK Robot Stickers**](https://stickers.tk.sg) — stickers for the company mascot, made by complaining extensively at imagegen ([source](https://github.com/tinkertanker/tkrobot-stickers)).
-- [**Bamboobot**](https://bamboobot.tk.sg) — generates certificates of achievement with text properly embedded in the PDF ([source](https://github.com/tinkertanker/bamboobot-cert-generator)).
+- [**Bamboobot**](https://bamboobot.tk.sg): generates certificates of achievement with text properly embedded in the PDF ([source](https://github.com/tinkertanker/bamboobot-cert-generator)).
+- [**Classroom Widgets**](https://widgets.tk.sg): a real-time teacher/student activity board with polls, questions, timers, QR codes, randomisers, handouts, feedback, and voice commands ([source](https://github.com/tinkertanker/classroom-widgets)).
+- [**Discord Drive Uploader**](https://github.com/tinkertanker/discord-drive-uploader): a self-hosted Discord bot and setup UI that uploads photos and videos from mapped Discord channels into Google Drive folders.
+- [**Points Accelerator**](https://github.com/tinkertanker/points-accelerator): a Discord economy and assignment bot for class communities, with group points, personal wallets, a marketplace, betting, lucky draws, and an OAuth dashboard.
+- [**TKrobot Stickers**](https://stickers.tk.sg): stickers for the company mascot, made by complaining extensively at imagegen ([source](https://github.com/tinkertanker/tkrobot-stickers)).
+- [**Vibbit**](https://vibbit.tk.sg): an AI coding assistant for micro:bit MakeCode, packaged as a Chrome extension and bookmarklet, with a managed classroom backend as well as bring-your-own-key mode ([source](https://github.com/tinkertanker/vibbit)).
 
 #### Older but still around
 
-- [**Tinkerer's Guide to the micro:bit Galaxy**](https://tgttmg.tk.sg) — a book we wrote during the pandemic.
-- [**DF-Style Linked List**](https://github.com/yjsoon/df-style-linked-list_wordpress-plugin) — a WordPress plugin I haven't touched in over a decade, which remains my most-starred repository. Yay?
+- [**DF-Style Linked List**](https://github.com/yjsoon/df-style-linked-list_wordpress-plugin): a WordPress plugin I haven't touched in over a decade, which remains my most-starred repository. Yay?
+- [**Tinkerer's Guide to the micro:bit Galaxy**](https://tgttmg.tk.sg): a book we wrote during the pandemic.
 
 ---
 
